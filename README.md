@@ -2,6 +2,21 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
+Presentado por:
+
+Eimy Dayana Quintero Torres, Código: 1610660041
+Julieth Andrea Rodríguez Ballen, Código: 1021070238 
+Juan Sebastián Rengifo Moreno, Código: 0811042836
+José Luis Rodríguez Alayón, Código: 920011157
+
+Ingenieria de Software - Politecnico Grancolombiano.
+
+## Instalar Libreria Swiper
+
+Para el corecto funcionamiento del Banner que permite cambiar de imagenes en el Home de la aplicacion se tiene que instalar la libreria Swiper con el siguiente comando:
+
+$ npm install swiper --add
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
