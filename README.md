@@ -4,8 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Presented by:
 
-Eimy Dayana Quintero Torres, Código: 1610660041
-Julieth Andrea Rodríguez Ballen, Código: 1021070238 
+Eimy Dayana Quintero Torres, Código: 1610660041 
 Juan Sebastián Rengifo Moreno, Código: 0811042836
 José Luis Rodríguez Alayón, Código: 920011157
 
