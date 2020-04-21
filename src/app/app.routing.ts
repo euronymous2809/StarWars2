@@ -1,10 +1,10 @@
 import { ModuleWithProviders, Component } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
-import { HomeComponent } from './components/home/home.component';
-import { PeliculasComponent } from './components/peliculas/peliculas.component';
-import {Episodio1Component} from './components/episodio1/episodio1.component';
-import { PageNotFoundComponent } from './components/page-not-found/page-not-found.component';
+import { HomeComponent } from './Components/home/home.component';
+import { PeliculasComponent } from './Components/peliculas/peliculas.component';
+import {Episodio1Component} from './Components/episodio1/episodio1.component';
+import { PageNotFoundComponent } from './Components/page-not-found/page-not-found.component';
 
 
 const appRoutes: Routes = [

@@ -21,13 +21,13 @@
     <br>
 
     <div [ngSwitch]="movie.episode_id">
-        <img *ngSwitchCase=0 src="./../../../assets/images/title-star.png" alt="">
         <img *ngSwitchCase=1 src="./../../../assets/images/4 The Phantom Menace.jpg" alt="">
         <img *ngSwitchCase=2 src="./../../../assets/images/5 Attack of the Clones.jpg" alt="">
         <img *ngSwitchCase=3 src="./../../../assets/images/6 Revenge of the Sith.jpg" alt="">
         <img *ngSwitchCase=4 src="./../../../assets/images/1 A New Hope.jpg" alt="">
         <img *ngSwitchCase=5 src="./../../../assets/images/2 The Empire Strikes Back.jpg" alt="">
         <img *ngSwitchCase=6 src="./../../../assets/images/3 Return of the Jedi.jpg" alt="">
+        <img *ngSwitchCase=7 src="./../../../assets/images/7 The Force Awakens.jpg" alt="">
     </div>
 
     <div *ngIf="names.length == 0"

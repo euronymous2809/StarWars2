@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { MoviesService } from 'src/app/services/movies.service';
-import { Movie } from 'src/app/models/movies';
+import { MoviesService } from 'src/app/Services/movies.service';
+import { Movie } from 'src/app/Objects/movies';
 
 @Component({
   selector: 'app-peliculas',
@@ -63,7 +63,7 @@ export class PeliculasComponent implements OnInit {
   onFindMovie(name: string) {
     const index: number = this.names.indexOf(name);
     if (index === -1) {
-      alert('Starship not found...');
+      alert('Film not found...');
     } else {
       this.getMovie(index);
     }
